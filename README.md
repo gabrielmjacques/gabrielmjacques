@@ -1,8 +1,8 @@
-<h1>Olá! Seja Bem-vindo(a) ao meu Perfil do GitHub</b></h1>
+<h1>Olá! Seja bem-vindo(a) ao meu perfil do GitHub</b></h1>
 
 <img height="200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmjacques&show_icons=true&theme=radical&border_radius=20px&border_color=7476FF'></img>
   
-<h2>Minha Linguagens Favoritas ❤</h2>
+<h2>Minha Tecnologias Favoritas ❤</h2>
   
 <div display=inline_block>
   <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
