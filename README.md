@@ -1,6 +1,4 @@
 <h1>Olá! Seja bem-vindo(a) ao meu perfil do GitHub</b></h1>
-
-<img height="200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmjacques&show_icons=true&theme=radical&border_radius=20px&border_color=7476FF'></img>
   
 <h2>Minha Tecnologias Favoritas ❤</h2>
   
@@ -8,7 +6,6 @@
   <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 </div>
 
 <h2>Minhas Redes Sociais 😎</h2>
