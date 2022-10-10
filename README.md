@@ -1,8 +1,10 @@
  <div align="center">
  
-<h1>Olá! Seja bem-vindo(a) ao meu perfil do GitHub</b></h1>
+<h1>Hi! Welcome To My Profile On GitHub</b></h1>
 
-<h2>Minha Tecnologias Favoritas ❤</h2>
+<h2><a href="https://gabrielmjacques.github.io/portfolio/" target="_blank">Click Here To Check My Portfolio<a></h2>
+
+<h2>Favorite Technologies ❤</h2>
 
 <div display=inline_block>
   <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -10,7 +12,7 @@
   <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
 
-<h2>Minhas Redes Sociais 😎</h2>
+<h2>Social Medias 😎</h2>
 
 <div display=inline_block>
 
