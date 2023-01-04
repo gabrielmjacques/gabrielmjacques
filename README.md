@@ -24,8 +24,3 @@
   <img width=200px height="50px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-</div>
-
-![snake gif](https://github.com/gabrielmjacques/gabrielmjacques/blob/output/github-contribution-grid-snake.svg)
-
-</div>
