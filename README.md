@@ -2,7 +2,7 @@
  
 <h1>Olá! Bem-vindo(a) ao meu perfil do GitHub</b></h1>
 
-<h2><a href="https://gabrielmjacques.github.io/portfolio/" target="_blank">Conferir Portfólio<a></h2>
+<h2><a href="https://portfolio-gabrielmjacques.vercel.app/">Conferir Portfólio<a></h2>
 
 <h2>Tecnologías Favoritas ❤</h2>
 
