@@ -1,30 +1,22 @@
- <div align="center">
- 
-<h1>Olá! Bem-vindo(a) ao meu perfil do GitHub</b></h1>
+```js
+import Desenvolvedor from 'gabrielmjacques';
 
-<h2><a href="https://portfolio-gabrielmjacques.vercel.app/">Conferir Portfólio<a></h2>
+class SobreMim extends Desenvolvedor {
+  nome     = 'Edson Gabriel';
+  area    = 'Desenvolvimento de Software';
+}
 
-<h2>Tecnologías Favoritas ❤</h2>
+class Skills extends Desenvolvedor {
+  linguagens  = ['Javascript', 'Typescript', 'Python', 'SQL'];
+  bibliotecas  = ['React'];
+  frameworks = ['Next.js', 'Bootstrap'];
+}
+```
 
-<div display=inline_block>
-  <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align=center height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-</div>
- 
- </br>
- 
- <img width=300px src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmjacques&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="ovi" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/edson-gabriel-jacques-5b3678242/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" height="30px" /></a>
 
-<h2>Redes Sociais 😎</h2>
-
-<div display=inline_block>
-
-  <a href='https://www.linkedin.com/in/edson-gabriel-jacques-5b3678242/' target="_blank">
-  <img width=200px height="50px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href='https://www.instagram.com/gabriel_gtbp/' target="_blank">
-  <img width=200px height="50px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
+  <a href="https://www.instagram.com/gabriel_gtbp/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" height="30px" /></a>
+</p>
