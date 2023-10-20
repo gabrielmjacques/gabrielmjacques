@@ -1,15 +1,15 @@
-```js
-import Desenvolvedor from 'gabrielmjacques';
+```ts
+import Developer from 'gabrielmjacques';
 
-class SobreMim extends Desenvolvedor {
-  nome     = 'Edson Gabriel';
-  area    = 'Desenvolvimento de Software';
+class AboutMe extends Developer {
+  name:       String  = 'Edson Gabriel';
+  occupation: String  = 'Software Developer';
 }
 
-class Skills extends Desenvolvedor {
-  linguagens  = ['Javascript', 'Typescript', 'Python', 'SQL'];
-  bibliotecas  = ['React'];
-  frameworks = ['Next.js', 'Bootstrap'];
+class Skills extends Developer {
+  languages: String[]    = ['Javascript', 'Typescript', 'Python', 'SQL'];
+  libs: String[]         = ['React'];
+  frameworks: String[]   = ['Next.js', 'Bootstrap'];
 }
 ```
 
