@@ -1,12 +1,10 @@
-# Fala devs 👋
+<h1 align=center>Fala devs 👋 </h1>
 
-💻 Apaixonado por Tecnologia | Desenvolvedor em Formação 🚀
+<h3 align=center>💻 Apaixonado por Tecnologia | Desenvolvedor em Formação 🚀</h3>
 
 Sou um entusiasta de tecnologia em constante desenvolvimento e evolução. Dedico esta conta para compartilhar meus projetos e progresso, expressando minhas ideias em forma de softwares e aplicações, visando sempre um código limpo, organizado e criativo! ✨
 
 ## Mais sobre mim
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```js
 let gabrielmjacques = {
@@ -17,9 +15,15 @@ let gabrielmjacques = {
 ```
 ## Status
 
+<p align=center>
 <a href="https://github.com/gabrielmjacques">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmjacques&theme=dracula&hide_langs_below=1" />
+  <img width="64%" src="https://miro.medium.com/v2/resize:fit:996/0*sp42a5GmqT_VavSq.gif" />
 </a>
+
+<a href="https://github.com/gabrielmjacques">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmjacques&theme=dracula&hide_langs_below=1" />
+</a>
+</p>
 
 [instagram]: https://www.instagram.com/gabriel_gtbp/
 [linkedin]: https://www.linkedin.com/in/edson-gabriel-jacques/
@@ -27,6 +31,7 @@ let gabrielmjacques = {
 <br>
 
 ## Rede sociais
-
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
+### Conecte-se comigo no LinkedIn
+<a href=https://www.linkedin.com/in/edson-gabriel-jacques/>
+<img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
