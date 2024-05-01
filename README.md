@@ -2,9 +2,7 @@
 
 💻 Apaixonado por Tecnologia | Desenvolvedor em Formação 🚀
 
-Olá, sou um estudante determinado a explorar o vasto mundo da tecnologia. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, focando meus estudos em desenvolvimento de aplicações web, especialmente com Angular e Java. Além disso, meu percurso inclui conhecimentos prévios em tecnologias como Next.js, React.js, Node, Typescript e Javascript.
-
-Minha paixão pelo desenvolvimento de software vai além de acadêmico. Estou em constante aprendizado, sempre buscando desafios e oportunidades para aplicar meu conhecimento na prática. Acredito que a tecnologia tem o poder de transformar o mundo, e estou animado para fazer parte dessa mudança.
+Sou um entusiasta de tecnologia em constante desenvolvimento e evolução. Dedico esta conta para compartilhar meus projetos e progresso, expressando minhas ideias em forma de softwares e aplicações, visando sempre um código limpo, organizado e criativo! ✨
 
 ## Mais sobre mim
 
@@ -13,8 +11,8 @@ Minha paixão pelo desenvolvimento de software vai além de acadêmico. Estou em
 ```js
 let gabrielmjacques = {
   name: "Edson Gabriel",
-  languages: ["Javascript", "Typescript", "Java"],
-  libs_and_frameworks: ["Next.js", "React.js", "Spring"]
+  languages: ["Javascript", "Typescript", "PHP", "Spring"],
+  libs_and_frameworks: ["Next.js", "React.js", "Laravel", "Spring"]
 }
 ```
 ## Status
